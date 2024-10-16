@@ -1,4 +1,4 @@
-Hello my name is Long Nguyen, I am currently a student at the University of Oklahoma, i'm current majoring in Information Science and Technology, throughout my coursework I have gained proficency in Python, SQL, Node.JS, and R studio
+Hello my name is Long Nguyen, I am currently a student at the University of Oklahoma, currently majoring in Information Science and Technology, throughout my coursework I have gained proficency in Python, SQL, Node.JS, R studio, HTML, CSS, and Javascript
 
 links to other projects:
 
