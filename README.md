@@ -6,6 +6,7 @@ links to other projects:
 
 2. https://github.com/lvn1717/expensetracker-with-SQL (Python)
 
-3. https://github.com/lvn1717/Expense-Tracker-Webapp (HTML/CSS/Javascript)
+3. https://github.com/lvn1717/tetris-clone
 
-4. https://github.com/lvn1717/tetris-clone 
+4. https://github.com/lvn1717/expensetracker-SQL-HTML-JS-CSS (HTML/CSS/Javascript)
+   
