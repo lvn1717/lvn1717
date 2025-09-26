@@ -9,4 +9,6 @@ links to other projects:
 3. https://github.com/lvn1717/tetris-clone(Python)
 
 4. https://github.com/lvn1717/expensetracker-SQL-HTML-JS-CSS (HTML/CSS/Javascript/SQL)
+
+5. https://github.com/lvn1717/video_summarizing_process/tree/main (Python/working with APIs)
    
