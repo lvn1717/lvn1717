@@ -1,4 +1,4 @@
-Hello my name is Long Nguyen, I am currently a student at the University of Oklahoma, currently majoring in Information Science and Technology, throughout my coursework I have gained proficency in Python, SQL, Node.JS, R studio, HTML, CSS, and Javascript
+Hello my name is Long Nguyen, I recently graduated from the University of Oklahoma and throughout my coursework I have gained proficency in Python, SQL, Node.JS, R studio, HTML, CSS, and Javascript
 
 links to other projects:
 
@@ -8,5 +8,5 @@ links to other projects:
 
 3. https://github.com/lvn1717/tetris-clone(Python)
 
-4. https://github.com/lvn1717/expensetracker-SQL-HTML-JS-CSS (HTML/CSS/Javascript)
+4. https://github.com/lvn1717/expensetracker-SQL-HTML-JS-CSS (HTML/CSS/Javascript/SQL)
    
